@@ -1,0 +1,16 @@
+PHY 131
+University Physics II: Electricity and Magnetism
+11345
+Julia Doelger
+PHY 132
+University Physics Laboratory II
+13416
+Hunter Reaves
+DAT 250
+Data Science and Society
+25399
+Laurence Schneider
+DAT 300
+Mathematical Tools for Data Science
+21100
+Apostolos Gournaris
